@@ -318,7 +318,7 @@ Now, your CLI is configured with the necessary permissions associated with your 
 
 10.	Let's proceed with downloading an image through the regular S3 Access Point. Navigate to the S3 console, go to Access Points, and select the access point you created.
 
-	![Untitled](images/Untitled32.png)
+	![Untitled](images/Untitled32.jpg)
 
 11.	Click on any of the available images.
 
