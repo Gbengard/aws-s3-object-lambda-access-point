@@ -192,7 +192,7 @@ To begin configuring the S3 buckets and access points, follow these steps:
 
    ![Untitled](images/Untitled11.png)
 
-3. Specify a unique name for the bucket (remember that bucket names must be unique within the region). For this demonstration, let's use `demo-employee-photos` as the bucket name.
+3. Specify a unique name for the bucket (remember that bucket names must be unique within the region). For this demonstration, let's use `blurry-pics` as the bucket name.
 
 4. Ensure that you select the same region where your Lambda function is deployed. In this case, it is `us-east-1`.
 
