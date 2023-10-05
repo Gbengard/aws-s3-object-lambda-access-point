@@ -326,7 +326,7 @@ Now, your CLI is configured with the necessary permissions associated with your 
 
 12.	On the Properties tab, copy the S3 URI.
 
-	![Untitled](images/Untitled34.png)
+	![Untitled](images/Untitled34.jpg)
 
 13.	In your CLI, execute the following command to retrieve the S3 object (replace `<COPIED S3 URI HERE>` with the text you copied from the console).
 
@@ -346,7 +346,7 @@ This command instructs S3 to copy the object from S3 to your local machine.
 
 16.	Proceed to the Properties tab and copy the Object Lambda Access Point Alias.
 
-	![Untitled](images/Untitled37.png)
+	![Untitled](images/Untitled37.jpg)
 
 17.	Return to your CLI and execute the following command. Note that the alias you copied does not include the object file name. In my case, I will be downloading "people-6.jpg," so I need to append it to the source. Replace `demo-employee-photos-rqkaja3g7fdqkue5itnpd4baaps2a--ol-s3` with the text you copied, ensuring that `s3://` is included at the beginning.
 
@@ -372,7 +372,7 @@ To clean up the resources created in this project, perform the following steps:
 
 4. Go to Access Points, select your access point, and click <kbd>Delete</kbd>.
 
-	![Untitled](images/Untitled40.png)
+	![Untitled](images/Untitled40.jpg)
 
 5. Enter the access point name in the confirmation window and click <kbd>Delete</kbd>.
 
@@ -418,14 +418,14 @@ To clean up the resources created in this project, perform the following steps:
 
 21.	If you completed stage 5 and would like to remove the access key for your IAM User, navigate back to the Security Credentials page.
 
-	![Untitled](images/Untitled46.png)
+	![Untitled](images/Untitled46.jpg)
 
 22.	Scroll down to Access keys and click <kbd>Actions</kbd> next to the access key you created (ensure you select the access key created for this project), and select <kbd>Delete</kbd>.
 
 23.	Click <kbd>Deactivate</kbd>.
 
-	![Untitled](images/Untitled47.png)
+	![Untitled](images/Untitled47.jpg)
 
 24.	Enter your access key and click <kbd>Delete</kbd>.
 
-	![Untitled](images/Untitled48.png)
+	![Untitled](images/Untitled48.jpg)
