@@ -274,9 +274,9 @@ To test the configured access point, follow these steps:
 
 7. The demo bucket now contains photos of people. If you open any of these images directly from the bucket, you will see the original image.
 
-   ![Untitled](images/Untitled25.png)
-
    ![Untitled](images/Untitled26.png)
+
+   ![Untitled](images/Untitled25.png)
 
 8. Return to the S3 console and navigate to the Object Lambda Access Points section. Open the Access Point that was created.
 
