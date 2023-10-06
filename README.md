@@ -350,7 +350,7 @@ This command instructs S3 to copy the object from S3 to your local machine.
 
 	![Untitled](images/Untitled37.jpg)
 
-17.	Return to your CLI and execute the following command. Note that the alias you copied does not include the object file name. In my case, I will be downloading "people-6.jpg," so I need to append it to the source. Replace `demo-employee-photos-rqkaja3g7fdqkue5itnpd4baaps2a--ol-s3` with the text you copied, ensuring that `s3://` is included at the beginning.
+17.	Return to your CLI and execute the following command. Note that the alias you copied does not include the object file name. In my case, I will be downloading 'man-isolated-showing-emotions-end-gestures_1303-30095.jpg' so I need to append it to the source. Replace `blurry-pics-oap-o7yc8yjdikpfong9tfqjugeiuse1a--ol-s3` with the text you copied, ensuring that `s3://` is included at the beginning.
 
 	```json
 	aws s3 cp s3://blurry-pics-oap-o7yc8yjdikpfong9tfqjugeiuse1a--ol-s3/man-isolated-showing-emotions-end-gestures_1303-30095.jpg .
