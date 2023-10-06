@@ -4,7 +4,7 @@
 
 ![Untitled](images/ObjectLamdaDiagram.png)
 
-This GitHub project aims to create an S3 Object Lambda Access Point that effectively blurs out the faces of individuals in images accessed through the access point. The environment will be set up in the us-east-1 (North Virginia) region, so all references and links provided will be specific to that region. If you plan to deploy the project in a different region, ensure that you adjust the relevant settings accordingly.
+This GitHub project aims to create an S3 Object Lambda Access Point that effectively blurs out the faces of individuals in images accessed through the access point. The environment will be set up in the :us-east-1" (North Virginia) region, so all references and links provided will be specific to that region. If you plan to deploy the project in a different region, ensure that you adjust the relevant settings accordingly.
 
 Note: To accomplish the face-blurring functionality, our Lambda function will utilize AWS Rekognition, which is only available in specific regions. Please refer to the list of supported regions provided by AWS at [https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/) and select a compatible region.
 
